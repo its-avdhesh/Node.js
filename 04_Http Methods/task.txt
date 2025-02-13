@@ -1,0 +1,22 @@
+RESt API - Json
+
+Get Method
+
+1. Get /usesrs -  List all The Users - HTML Document
+Get /api/users - List all the Users JSON with Correct format
+
+
+2. Get /Users with There Name only 
+3. Get /User/1 - Get The user with ID 1
+
+Post Method
+
+1. Post /user - Create new User
+
+Patch Method
+
+1. Patch /user/1 - Edit the user with ID 1
+
+Delete Method
+
+1. Delete /user/1 - Delete the user with ID 1
