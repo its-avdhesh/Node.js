@@ -1,0 +1,5 @@
+models deals with database logic or business logic
+What it models does
+
+Manages data and business logic.
+Interacts with the database (like MongoDB, MySQL, or PostgreSQL).

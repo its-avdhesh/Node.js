@@ -1,0 +1,33 @@
+So This is my first own made project without any using of external guidence, and we will
+be making a website, where you can write name of some people, and it will display all the 
+progress they have made in your project
+
+
+GET REQUEST
+//display all the 
+get.Users ->   display all the users info
+
+
+GET REQUEST
+//displaying User1
+get.User1
+//displaying User2
+get.User2
+//displaying User3
+get.User3
+
+POST REQUEST
+//Adding Info User1
+post.User1
+//Adding Info User2
+post.User2
+//Adding Info User3
+post.User3
+
+//MIDDLEWARE
+This Will Store all The Times we had seen the Data
+
+
+
+
+

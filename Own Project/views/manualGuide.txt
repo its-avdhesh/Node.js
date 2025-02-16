@@ -1,0 +1,5 @@
+What views does:
+
+Defines how the frontend UI looks.
+Used only if you are rendering HTML using a templating engine like EJS, Handlebars, or Pug.
+If you're building an API, you may not need a views/ folder.

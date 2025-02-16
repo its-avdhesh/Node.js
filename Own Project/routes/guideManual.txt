@@ -1,0 +1,1 @@
+In routes, you first initilise express and routes from the express itself, and then you call all the function from controller and use them in router.req and export them.

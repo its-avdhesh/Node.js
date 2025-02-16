@@ -1,0 +1,1 @@
+In controller, You initilize all the function of routes, and then export them.
